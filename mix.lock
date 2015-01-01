@@ -1,0 +1,12 @@
+%{"conform": {:hex, :conform, "0.11.0"},
+  "ex_doc": {:git, "git://github.com/elixir-lang/ex_doc.git", "54a6dabaf0c5cae1080047dce099c538395c94cb", []},
+  "exmerl": {:git, "git://github.com/pwoolcoc/exmerl.git", "26ce73d6694d21208ffbaa1e87abd9c5407a0409", []},
+  "exrm": {:hex, :exrm, "0.14.16"},
+  "floki": {:git, "git://github.com/philss/floki.git", "9f8bfd513e6f86f0bf9b35a83ef2cacb96845683", []},
+  "hackney": {:hex, :hackney, "0.14.3"},
+  "httpoison": {:hex, :httpoison, "0.5.0"},
+  "httpotion": {:hex, :httpotion, "0.2.4"},
+  "idna": {:hex, :idna, "1.0.1"},
+  "quinn": {:git, "git://github.com/nhu313/Quinn.git", "2680385d8542213b362d42ecab64be444d0ac529", []},
+  "spill": {:git, "git://github.com/jquadrin/spill.git", "c80fdc70eeb090b9035f1a3173e614f1ad1dbc37", []},
+  "xml_builder": {:git, "git://github.com/joshnuss/xml_builder.git", "68ade7e70d479021eaf7d7cb42fcb5ca1b01865c", []}}

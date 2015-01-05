@@ -64,7 +64,7 @@ end
 
 运行`iex`进入Elixir Shell, 并声明模块:
 
-![导入xmerl模块的记录为Elixir模块函数](/assets/elixir/671C1BC4-418A-4B67-9A35-5B0DDCA3E293.png)
+![导入xmerl模块的记录为Elixir模块函数](http://developerworks.github.io/assets/elixir/671C1BC4-418A-4B67-9A35-5B0DDCA3E293.png)
 
 ```
 test "Test parsing xml document" do

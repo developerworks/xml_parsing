@@ -26,8 +26,8 @@ defmodule XmlParsing.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:exrm, "~> 0.14.16"},
-      {:httpoison, "~> 0.5.0"}
+      {:exrm, "~> 1.0.8"},
+      {:httpoison, "~> 0.9.2"}
     ]
   end
 end
